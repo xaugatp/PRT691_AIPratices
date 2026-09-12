@@ -1,0 +1,12 @@
+yolov8n.pt
+ZipData/
+stage1_outputs/
+stage2_outputs/
+stage1_work/
+stage2_work/
+banana-leaf-segmentation.coco-segmentation/
+banana-tree-detection.coco/
+runs/
+*.pt
+*.pth
+*.onnx
